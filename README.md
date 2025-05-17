@@ -1,5 +1,5 @@
 SALES data used- 
-
+Tableau link- https://public.tableau.com/app/profile/dr.laxmi.singh/viz/CustomerAnalysis-Dr_LaxmiSingh/Dashboard2 
 Overall Objective of the Dashboard
 
 To perform a customer and sales analysis by visualizing:
